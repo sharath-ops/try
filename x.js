@@ -1,2 +1,2 @@
-const va = 10 
+const va = 3
 console.log(va)
